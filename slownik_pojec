@@ -6,7 +6,13 @@ Defekt (bug, pluskwa, usterka - defect) – wada w kodzie lub dokumencie, która
 Nie wszystkie defekty powodują awarie!
 
 Awaria (failure) – Odchylenie systemu od oczekiwanego zachowania lub rezultatu. 
-Poza tymi wynikającymi z defektów w kodzie – mogą być również spowodowane warunkami środowiskowymi. 
+Poza tymi wynikającymi z defektów w kodzie – mogą być również spowodowane warunkami środowiskowymi.
+
+Testalia (testware) - Wszystkie dokumenty i narzędzia (artefakty) wytworzone i używane podczas procesu testowania. 
+
+Testy korytarzowe (hallway testing)- losowe osoby są używane do testowania oprogramowania i interfejsów. Dosłownie zgarnięte na korytarzu.
+Często jednak wybiera sie grupe docelową i konkretny korytarz z którego zgarniamy osoby do testów. tak by to nie byli zupełnie przypadkowi
+przechodnie.
 
 MVP - minimum viable product - wersja produktu która ma wystarczającą ilość funkcjonalności by zaspokoić podstawowe potrzeby użytkowników. 
 Pozwala dostarczyć informacje zwrotną (feedback) potrzebną do dalszego rozwijania i usprawniania produktu.
