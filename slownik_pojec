@@ -53,6 +53,9 @@ W kontekście qTest - żeby CREATE TEST RUN musieliśmy wybrać jakiś Release -
 Produkcja/Prod- Środowisko produkcyjne na którym działa klient kończowy - ogólno dostepny z możliwymi obostrzeniami dotyczącymi dostepów.
 Uwaga jest tośrodowisko na którym odbywają sie prawdziwe działania i operacje. Na ogół nie wolno na nim robić testów lub tylko na specjalnych profilach.
 
+Legacy system - starszy system stworzony starą metodą, przestarzałą technologią, systemem komputerowym lub programem użytkowym „odnoszącym się do poprzedniego systemu komputerowego lub będącym jego wcześniejszym lub nieaktualnym systemem”,
+ale nadal jest w użyciu.
+
 Warto znać
 Blog guru99
 https://www.guru99.com/software-testing-introduction-importance.html
