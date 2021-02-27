@@ -1,4 +1,4 @@
-Słowniczek pojęć V2
+Słowniczek pojęć V2.1
 
 Testalia (testware) - Wszystkie dokumenty i narzędzia (artefakty) wytworzone i używane podczas procesu testowania. 
 
@@ -39,8 +39,24 @@ Post - W Postmanie czy SoapUI komenda oznaczająca wysłanie wskazanych danych z
 
 Req/requirements - wymagania
 
-MATKO BOSKA COZ TO JEST :D !!!!!!!!!!!
+Release - Opublikowanie - najcześciej w w rozumieniu opublikowanie kodu/aplikacji na wyższym środowisku testowym lub na produkcji.
+W kontekście qTest - żeby CREATE TEST RUN musieliśmy wybrać jakiś Release - to po prostu "foldery" przyporządkowujące przypadki testowe do konkretnej wersji aplikacji.
 
+Produkcja/Prod- Środowisko produkcyjne na którym działa klient kończowy - ogólno dostepny z możliwymi obostrzeniami dotyczącymi dostepów.
+Uwaga jest tośrodowisko na którym odbywają sie prawdziwe działania i operacje. Na ogół nie wolno na nim robić testów lub tylko na specjalnych profilach.
+
+Legacy system - starszy system stworzony starą metodą, przestarzałą technologią, systemem komputerowym lub programem użytkowym „odnoszącym się do poprzedniego systemu komputerowego lub będącym jego wcześniejszym lub nieaktualnym systemem”,
+ale nadal jest w użyciu.
+
+Selenium (from guru99.com) - a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
+You can use multiple programming languages like Java, C#, Python etc to create Selenium Test Scripts.
+Testing done using the Selenium testing tool is usually referred to as Selenium Testing.
+
+Sprzawdzić program OBS - darmowy znagrywa wsteczni (odtwarz)
+
+danetestowe.pl/generator
+=======
+MATKO BOSKA COZ TO JEST :D !!!!!!!!!!!
 
 Warto znać
 Blog guru99
