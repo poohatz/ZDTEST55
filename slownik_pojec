@@ -1,12 +1,4 @@
-Słowniczek pojęć
-
-Błąd (pomyłka - error) – na skutek błędu człowieka może powstać defekt.
-
-Defekt (bug, pluskwa, usterka - defect) – wada w kodzie lub dokumencie, która może spowodować nieprawidłowe działanie (awarię). 
-Nie wszystkie defekty powodują awarie!
-
-Awaria (failure) – Odchylenie systemu od oczekiwanego zachowania lub rezultatu. 
-Poza tymi wynikającymi z defektów w kodzie – mogą być również spowodowane warunkami środowiskowymi.
+Słowniczek pojęć V2
 
 Testalia (testware) - Wszystkie dokumenty i narzędzia (artefakty) wytworzone i używane podczas procesu testowania. 
 
@@ -55,6 +47,11 @@ Uwaga jest tośrodowisko na którym odbywają sie prawdziwe działania i operacj
 
 Legacy system - starszy system stworzony starą metodą, przestarzałą technologią, systemem komputerowym lub programem użytkowym „odnoszącym się do poprzedniego systemu komputerowego lub będącym jego wcześniejszym lub nieaktualnym systemem”,
 ale nadal jest w użyciu.
+
+Sprzawdzić program OBS - darmowy znagrywa wsteczni (odtwarz)
+
+danetestowe.pl/generator
+
 
 Warto znać
 Blog guru99
