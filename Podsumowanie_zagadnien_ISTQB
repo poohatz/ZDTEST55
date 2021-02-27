@@ -1,25 +1,7 @@
-V2.0
+V2.1
 
 Dzień dobry!
-Test
-TEst
-TESt
-TEST
 
-Czym jest przypadek testowy? - to zbiór danych wejściowych, wstępnych warunków wykonania, 
-oczekiwanych rezultatów i końcowych kryteriów wykonania 
-
-Czym jest warunek testowy? - to element lub zdarzenie modułu lub systemu, 
-który może być zweryfikowany przez jeden lub więcej przypadków testowych
-
-Proces testowy.
-Planowanie testów;
-monitorowanie testów i nadzór nad testami;
-analiza testów;
-projektowanie testów;
-implementacja testów;
-wykonywanie testów;
-ukończenie testów.
 
 Co zawiera dobry przypadek testowy?
 Tytuł / Summary
@@ -28,6 +10,10 @@ Warunki wstępne / Precondition
 Kroki / Test Steps
 Oczekiwane rezultaty / Expected Result
 Środowisko i wersję
+
+Co zawiera zły przypadek testowy? (Pytanie otwarte!)
+Twoja odpowiedź:
+...
 
 Zasady testowania wg ISTQB.
 1. Testowanie ujawnia usterki, ale nie może dowieść ich braku
