@@ -39,18 +39,7 @@ Post - W Postmanie czy SoapUI komenda oznaczająca wysłanie wskazanych danych z
 
 Req/requirements - wymagania
 
-Release - Opublikowanie - najcześciej w w rozumieniu opublikowanie kodu/aplikacji na wyższym środowisku testowym lub na produkcji.
-W kontekście qTest - żeby CREATE TEST RUN musieliśmy wybrać jakiś Release - to po prostu "foldery" przyporządkowujące przypadki testowe do konkretnej wersji aplikacji.
-
-Produkcja/Prod- Środowisko produkcyjne na którym działa klient kończowy - ogólno dostepny z możliwymi obostrzeniami dotyczącymi dostepów.
-Uwaga jest tośrodowisko na którym odbywają sie prawdziwe działania i operacje. Na ogół nie wolno na nim robić testów lub tylko na specjalnych profilach.
-
-Legacy system - starszy system stworzony starą metodą, przestarzałą technologią, systemem komputerowym lub programem użytkowym „odnoszącym się do poprzedniego systemu komputerowego lub będącym jego wcześniejszym lub nieaktualnym systemem”,
-ale nadal jest w użyciu.
-
-Sprzawdzić program OBS - darmowy znagrywa wsteczni (odtwarz)
-
-danetestowe.pl/generator
+MATKO BOSKA COZ TO JEST :D !!!!!!!!!!!
 
 
 Warto znać
