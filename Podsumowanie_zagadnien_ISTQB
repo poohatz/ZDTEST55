@@ -1,3 +1,13 @@
+V2.0
+
+Zmiana
+
+Dzień dobry!
+Test
+TEst
+TESt
+TEST
+
 Czym jest przypadek testowy? - to zbiór danych wejściowych, wstępnych warunków wykonania, 
 oczekiwanych rezultatów i końcowych kryteriów wykonania 
 
@@ -35,7 +45,7 @@ Poziomy testów
 -Integracyjne (integration)
 -Systemowe (system)
 -Akceptacyjne (acceptance)
-
+To już wsszsytko wiemy ###########################################################################################
 Typy testów:
 Testowanie Dynamiczne
 Testowanie Statyczne
@@ -59,4 +69,6 @@ Narzędzia.
 
 Podział ryzyk - projektowe i produktowe (jakościowe)
 Jak radzić sobie z ryzykiem - akceptować, łagodzić, unikać
+
+Dodatkowy tekst
 
